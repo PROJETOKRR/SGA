@@ -4,15 +4,23 @@ Tema base para WordPress.
 ## Features ##
 
 
-* php
+* Java fx
 * 
 ## Descrição do Projeto ##
 
-Bem vindos ao SGA, um tema base desenvolvido web , para gerenciar academias focadas em artes marciais.
+Plataforma usada Netbeans.
+
+Bem vindos ao SGA, um tema base em Java FX, para gerenciar academias focadas em artes marciais.
+Cadastro de alunos e gerenciamento de pagamento de matrículas.
 
 ## Instalação ##
 
+Netbeans.
+
+Sistema Local.
+Banco de dados local.
 
 
 ## Referências ##
+
 
